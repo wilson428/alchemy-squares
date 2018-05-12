@@ -21,6 +21,8 @@
   },
   "homepage": "https://github.com/wilson428/magic-squares#readme",
   "dependencies": {
+    "js-combinatorics": "^0.5.3",
     "minimist": "^1.2.0"
-  }
+  },
+  "devDependencies": {}
 }
