@@ -1,8 +1,11 @@
 # Alchemy Squares
 
-Antoni Gaudí's spectacular [Sagrada Familia cathedral](https://en.wikipedia.org/wiki/Sagrada_Fam%C3%ADlia) in Barcelona has what is generally billed as a four-by-four "magic square" on the Passion façade in which each row, column and diagonal adds to 33, the age at which Jesus is believed to have died.
+I was recently in Barcelona, where--and if you do _one_ thing in Barcelona, you do this--I toured Antoni Gaudí's spectacular [Sagrada Familia Basilica](https://en.wikipedia.org/wiki/Sagrada_Fam%C3%ADlia). On top of stunning architecture and glasswork, the temple is tattooed in symbolism from cultures and traditions far and wide.
 
-![The Sagrada Familia "Magic" Square](img/sagrada.jpg)
+The Passion façade, which is opposite the entrance, features what is generally billed as a four-by-four "magic square" in which each row, column and diagonal adds to 33, the age at which Jesus is believed to have died.
+
+
+
 
 In fact, the [formal definition of a magic square](http://mathworld.wolfram.com/MagicSquare.html) of `n x n` dimensions requires that it use each number once, from `1` to `n`<sup>2</sup>. So it would be impossible to make an actual magic square for Jesus unless he had lived another three years to 36. (Such a square [has been solved](http://www.math.wichita.edu/~richardson/mathematics/magic%20squares/even-ordermagicsquares.html).)
 
